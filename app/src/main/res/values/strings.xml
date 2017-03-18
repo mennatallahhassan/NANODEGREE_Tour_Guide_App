@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="start">Start!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_first">Pizza King</string>
+    <string name="address_first">9 Abou El Feda St.، Abu Al Feda, Zamalek, Cairo Governorate</string>
+
+    <string name="name_second">Pizza King</string>
+    <string name="address_second">59 Lebanon St.، MOHANDESEEN، Giza, Giza Governorate</string>
+
+    <string name="name_forth">Pizza Hut</string>
+    <string name="address_forth">265 Shoubra St.، SHOUBRA، As Sahel, Cairo Governorate</string>
+
+    <string name="name_third">Pizza King</string>
+    <string name="address_third">9 Abou El Feda St.، Abu Al Feda, Zamalek, Cairo Governorate</string>
+
+
+</resources>
